@@ -34,5 +34,9 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohan18R&show_icons=true&locale=en&layout=compact" alt="mohanr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohan18R&show_icons=true&locale=en" alt="mohanr" /></p>
+
 <p align="center"><strong>🌟 Star if you like it. Feel free to contribute! 😊 Happy coding! </strong></p>
 
