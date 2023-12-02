@@ -2,6 +2,8 @@
 <h3 align="center"> 🤖 AIML Enthusiast | 🌐 Web Developer  | 💻 Aspiring Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan18r&label=Profile%20views&color=0e75b6&style=flat" alt="mohanr" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohan18R" alt="mohanr" /></a> </p>
+
 
 ### About Me:
 🚀 Currently pursuing an engineering degree with a specialization in AIML.
@@ -37,6 +39,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohan18R&show_icons=true&locale=en&layout=compact" alt="mohanr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohan18R&show_icons=true&locale=en" alt="mohanr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohan18R&" alt="mohanr" /></p>
 
 <p align="center"><strong>🌟 Star if you like it. Feel free to contribute! 😊 Happy coding! </strong></p>
 
