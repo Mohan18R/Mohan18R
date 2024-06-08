@@ -2,7 +2,13 @@
 <h3 align="center"> 🤖 AIML Enthusiast | 🌐 Web Developer  | 💻 Aspiring Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan18r&label=Profile%20views&color=0e75b6&style=flat" alt="mohanr" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohan18R" alt="mohanr" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mohan18R&theme=dracula" alt="mohanr" />
+  </a> 
+</p>
+
+
 
 
 ### About Me:
@@ -36,11 +42,18 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohan18R&show_icons=true&locale=en&layout=compact" alt="mohanr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohan18R&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mohanr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohan18R&show_icons=true&locale=en" alt="mohanr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohan18R&show_icons=true&locale=en&theme=dracula" alt="mohanr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohan18R&" alt="mohanr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohan18R&theme=dracula" alt="mohanr" /></p>
+
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohan18R&theme=dracula)
+
+
+
+
+
 
 <p align="center"><strong>🌟 Star if you like it. Feel free to contribute! 😊 Happy coding! </strong></p>
 
